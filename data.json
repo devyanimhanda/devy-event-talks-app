@@ -1,0 +1,76 @@
+{
+  "eventTitle": "Tech Talks Day",
+  "eventDate": "May 6, 2026",
+  "schedule": [
+    {
+      "time": "10:00 AM",
+      "type": "talk",
+      "title": "Opening Remarks",
+      "speakers": ["Event Organizer"],
+      "category": ["Introduction"],
+      "duration": "10 min",
+      "description": "Welcome and introduction to the event."
+    },
+    {
+      "time": "10:10 AM",
+      "type": "talk",
+      "title": "The Future of AI in Web Development",
+      "speakers": ["Alice Smith"],
+      "category": ["AI", "Web Development"],
+      "duration": "60 min",
+      "description": "Explore the exciting advancements of AI and its integration into modern web development workflows."
+    },
+    {
+      "time": "11:20 AM",
+      "type": "talk",
+      "title": "Building Scalable Microservices with Node.js",
+      "speakers": ["Bob Johnson"],
+      "category": ["Node.js", "Backend", "Architecture"],
+      "duration": "60 min",
+      "description": "A deep dive into designing and implementing robust and scalable microservices using Node.js."
+    },
+    {
+      "time": "12:30 PM",
+      "type": "break",
+      "title": "Lunch Break",
+      "duration": "60 min",
+      "description": "Enjoy a delicious lunch and network with fellow attendees."
+    },
+    {
+      "time": "01:30 PM",
+      "type": "talk",
+      "title": "Mastering Modern CSS Layouts",
+      "speakers": ["Charlie Brown"],
+      "category": ["Frontend", "CSS"],
+      "duration": "60 min",
+      "description": "Unlock the power of CSS Grid and Flexbox to create stunning and responsive web layouts."
+    },
+    {
+      "time": "02:40 PM",
+      "type": "talk",
+      "title": "Demystifying Blockchain for Developers",
+      "speakers": ["Dana White"],
+      "category": ["Blockchain", "Web3"],
+      "duration": "60 min",
+      "description": "An introduction to blockchain technology and its practical applications for developers."
+    },
+    {
+      "time": "03:50 PM",
+      "type": "talk",
+      "title": "Effective State Management in React Applications",
+      "speakers": ["Eve Davis"],
+      "category": ["React", "Frontend", "State Management"],
+      "duration": "60 min",
+      "description": "Learn best practices and patterns for managing state in complex React applications."
+    },
+    {
+      "time": "05:00 PM",
+      "type": "talk",
+      "title": "Closing Remarks & Networking",
+      "speakers": ["Event Organizer"],
+      "category": ["Conclusion"],
+      "duration": "10 min",
+      "description": "Wrap-up the event, key takeaways, and open networking session."
+    }
+  ]
+}

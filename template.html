@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Schedule</title>
+    <style>
+        /* INJECT_CSS_HERE */
+    </style>
+</head>
+<body>
+    <div id="app">
+        <header>
+            <h1><!-- INJECT_EVENT_TITLE_HERE --></h1>
+            <p><!-- INJECT_EVENT_DATE_HERE --></p>
+        </header>
+        <div class="search-container">
+            <input type="text" id="categorySearch" placeholder="Search by category...">
+        </div>
+        <main id="schedule">
+            <!-- Schedule items will be rendered here by JavaScript -->
+        </main>
+    </div>
+    <script>
+        const rawScheduleData = JSON.parse(`<!-- INJECT_SCHEDULE_DATA_HERE -->`);
+        /* INJECT_JS_HERE */
+    </script>
+</body>
+</html>
